@@ -5,7 +5,7 @@ An easy to use console with an integrated scripting language
 We are building an easy to use console so people with very few expierence can writte their own scripts and use the console
 
 # Programming
-The program is mainly built in Python, C++, bat 
+The program is mainly built in Python, C++, bat and RS 
 
 # License 
 CC BY-NC-SA 4.0
